@@ -1,4 +1,4 @@
-# firebasetest
+# Hotspot
 
 A new Flutter application.
 
